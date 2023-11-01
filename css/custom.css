@@ -1,0 +1,60 @@
+/* .header-nav.header-nav-links.justify-content-start {
+    padding-top: 1.5rem !important;
+}
+
+@media (max-width: 767px) {
+    .header-nav.header-nav-links.justify-content-start {
+        padding-top: 0 !important;
+    }
+} */
+
+.section-about {
+    padding: 4rem 0;
+}
+section h1.title {
+    font-weight: 600;
+}
+.section-about .body-text {
+    font-size: 1rem;
+    line-height: 35px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.form-control.custom {
+    padding: 1rem;
+    border-radius: 35px;
+    margin-top: 1rem;
+}
+
+.section-blank {
+    padding: 1rem 0;
+    background: #0047bb;
+}
+
+.ul-edit {
+    font-size: 1.15rem;
+    list-style-type: ">";
+}
+.ul-edit li {
+    margin: 10px 0;
+    padding-left: 1rem;
+}
+
+/* Section Contact */
+.section-contact {
+    padding: 4rem 0;
+    background: #f8f8f8;
+}
+.section-contact .form-control.custom {
+    border-radius: 24px;
+    padding-left: 2rem;
+}
+.section-contact textarea {
+    height: 150px;
+}
+
+.pricing-table {
+    justify-content: center;
+    margin-top: 3rem;
+}
