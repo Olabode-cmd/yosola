@@ -21,6 +21,13 @@ section h1.title {
     margin: 0 auto;
 }
 
+@media (max-width: 767px) {
+    .section-about .body-text {
+        width: 100%;
+        text-align: left;
+    }
+}
+
 .form-control.custom {
     padding: 1rem;
     border-radius: 35px;
