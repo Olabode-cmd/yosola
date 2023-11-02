@@ -25,6 +25,10 @@ section h1.title {
     .section-about .body-text {
         width: 100%;
         text-align: left;
+        font-size: .9rem;
+    }
+    .section .text-12.title {
+        font-size: 2.5em !important;
     }
 }
 
