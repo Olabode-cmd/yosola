@@ -30,6 +30,9 @@ section h1.title {
     .section .text-12.title {
         font-size: 2.5em !important;
     }
+    .section .col p {
+        font-size: .9rem !important;
+    }
 }
 
 .form-control.custom {
